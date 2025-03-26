@@ -1,7 +1,4 @@
 # Brokerly
-Here’s your **refined LinkedIn post** in an engaging, professional, and action-oriented tone. It highlights the website, your technical contributions, and the startup **idea** (but clarifies it's not a full startup yet).  
-
----
 
 ### **🚀 Turning an Idea into Reality – Built My First Web Platform!**  
 
